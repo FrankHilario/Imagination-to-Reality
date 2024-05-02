@@ -1,4 +1,5 @@
 # Imagination-to-Reality
+Turning an imagination into reality involves several steps:
 1. Define your idea: Clarify your imagination into a specific concept or goal.
 2. Set a clear objective: Break down your idea into smaller, achievable objectives.
 3. Create a plan: Develop a step-by-step plan with deadlines and resources needed.
