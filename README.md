@@ -1,7 +1,7 @@
 # Imagination-to-Reality
 # Imaginación a la realidad
 
-Turning an imagination into reality involves several steps: Convertir una imaginación en realidad implica varios pasos:
+Turning an imagination into reality involves several steps:  Convertir una imaginación en realidad implica varios pasos:
 
 1. **Define your idea**: Clarify your imagination into a specific concept or goal.
 1. **Define tu idea**: Aclara tu imaginación en un concepto o meta específica.
